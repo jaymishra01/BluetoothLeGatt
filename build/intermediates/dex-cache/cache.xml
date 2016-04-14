@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jmishra\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="C:\Users\jmishra\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-cf9e3c7e519cea937fb7e34639b9fd405e7ee513.jar" />
+    </item>
+    <item
+        jar="C:\Users\jmishra\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\jmishra\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-54dd57ba3b4dc2120196ae9fec36bdd6a9f59fa7.jar" />
+    </item>
+    <item
+        jar="C:\Users\jmishra\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\jmishra\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-cfa4352ef8cf16f1d21486802e8849e7939f862b.jar" />
+    </item>
+    <item
+        jar="C:\Users\jmishra\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="C:\Users\jmishra\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-79b33b008f6bb617a514bc51f04dddb6366a996d.jar" />
+    </item>
+    <item
+        jar="C:\Users\jmishra\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\jmishra\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-5d000e2f462d4da297152ee9995e038780734c81.jar" />
+    </item>
+    <item
+        jar="C:\Users\jmishra\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="C:\Users\jmishra\Downloads\BluetoothLeGatt\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-7daefdb00ae7d7ad01dceb37c4afc613441b0b9c.jar" />
+    </item>
+
+</items>
