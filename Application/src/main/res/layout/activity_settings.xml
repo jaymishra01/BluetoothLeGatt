@@ -27,11 +27,13 @@
             android:text="Field area(Acres): "
             android:textSize="22sp"/>
 
-        <TextView android:id="@+id/device_name"
+        <EditText android:id="@+id/areaset"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="22sp"
-            android:shadowColor="@color/cardview_dark_background"/>
+            android:shadowColor="@color/cardview_dark_background"
+            android:inputType="numberDecimal"
+            android:onClick="onClickWrite"/>
 
     </LinearLayout>
     <LinearLayout android:orientation="horizontal"
@@ -47,11 +49,35 @@
             android:text="Device Name: "
             android:textSize="22sp"/>
 
-        <TextView android:id="@+id/device_name"
+        <EditText android:id="@+id/nameset"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="22sp"
-            android:shadowColor="@color/cardview_dark_background"/>
+            android:shadowColor="@color/cardview_dark_background"
+            android:inputType="text"
+            android:onClick="onClickWrite"/>/>
+
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp">
+
+        <Space android:layout_width="5dp"
+            android:layout_height="wrap_content"/>
+
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Set Date: "
+            android:textSize="22sp"/>
+
+        <EditText android:id="@+id/dateset"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="22sp"
+            android:shadowColor="@color/cardview_dark_background"
+            android:inputType="date"
+            android:onClick="onClickWrite"/>/>
 
     </LinearLayout>
     <LinearLayout android:orientation="horizontal"
@@ -67,11 +93,13 @@
             android:text="Set Time: "
             android:textSize="22sp"/>
 
-        <TextView android:id="@+id/device_name"
+        <EditText android:id="@+id/timeset1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="22sp"
-            android:shadowColor="@color/cardview_dark_background"/>
+            android:shadowColor="@color/cardview_dark_background"
+            android:inputType="time"
+            android:onClick="onClickWrite"/>/>
 
     </LinearLayout>
     <LinearLayout android:orientation="horizontal"
@@ -79,12 +107,14 @@
         android:layout_height="wrap_content"
         android:layout_margin="10dp">
 
+    </LinearLayout>
+
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="save"
+        android:text="@string/datasend"
         android:id="@+id/button"
-        android:layout_gravity="right" />
-</LinearLayout>
+        android:onClick="s"
+        />
 
 </LinearLayout>
